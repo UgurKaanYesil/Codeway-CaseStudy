@@ -42,9 +42,6 @@ This is a simple Java program that simulates a dice rolling game played between 
 
 6. **Game End**: The game ends when the target number of rounds is reached. The final scores of all three players are displayed.
 
-## Example Output
-
-![Game Screenshot](Ekran Resmi 2024-07-21 21.35.24.png)
 
 
 
