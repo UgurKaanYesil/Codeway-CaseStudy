@@ -44,6 +44,7 @@ This is a simple Java program that simulates a dice rolling game played between 
 
 ## Example Output
 
+![Game Screenshot](/Users/ugurkaanyesil/codeway/Codeway-CaseStudy/Ekran Resmi 2024-07-21 21.35.24.png)
 
 
 
